@@ -1,0 +1,575 @@
+.header .wrapper
+{
+	width:100%;
+    margin:auto;
+}
+.banner .wrapper
+{
+	width:80%;
+    margin:auto;
+}
+.logos .wrapper
+{
+	width:80%;
+    margin:auto;
+}
+.plan .wrapper
+{
+	width:80%;
+    margin:auto;
+}
+.deal .wrapper 
+{
+	width:80%;
+	margin:auto;
+}
+.about.wrapper 
+{
+	width:100%;
+	margin:auto;
+}
+.services.wrapper 
+{
+	width:80%;
+	margin:auto;
+}
+.offers .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.ad .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.countries .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.founders .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.information .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contact .wrapper
+{
+    width:80%;
+	margin:auto;
+}
+.header
+{
+	text-align:center;
+	height:75px;
+	width:100%;
+	background-color:blue;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.header .header-fc .topic
+{
+	height:75px;
+	width:40%;
+	background-color:plum;
+}
+.header .header-fc .navi
+{
+	height:75px;
+	width:40%;
+	background-color:plum;
+}
+.banner
+{
+	text-align:center;
+	height:500px;
+	width:100%;
+	background-color:yellow;
+}
+.banner .banner-fc
+{
+	display:flex;
+}
+.banner .banner-fc .intro
+{
+	height:500px;
+	width:50%;
+	background-color:#009688;
+}
+.banner .banner-fc .get-it-now
+{
+	margin-top:60%;
+	margin-left:25%;
+	width:50%;
+	height:45px;
+	background-color:orange;
+}
+.banner .banner-fc .logo
+{
+	height:500px;
+	width:50%;
+	background-color:#e91e63;
+}
+.logos 
+{
+	text-align:center;
+	height:162px;
+	width:100%;
+	background-color:yellow;
+}
+.logos .logos-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.logos .logos-fc .news
+{
+	margin-top:1%;
+	height:137px;
+	width:20%;
+	background-color:#e91e63;
+}
+
+.logos .logos-fc .flourism
+{
+	margin-top:1%;
+	height:137px;
+	width:20%;
+	background-color:#657e15;
+}
+ .logos .logos-fc .natural
+ {
+ margin-top:1%;
+	height:137px;
+	width:20%;
+	background-color:#e91e63;
+}
+.plan
+{
+	text-align:center;
+	height:240px;
+	width:100%;
+	background-color:#009688;
+}
+.deal
+{
+	text-align:center;
+	height:400px;
+	width:100%;
+	background-color:yellow;
+}
+.deal.deal-fc
+{
+	display:flex;
+	justify-content:space-between;
+} 
+.deal .deal-fc .boxa
+{
+	margin-bottom:-10%;
+	height:400px;
+	width:30%;
+	background-color:red;
+}
+.deal .deal-fc .smalla
+{
+	margin-top:60%;
+	margin-left:20%;
+	width:60%;
+	height:110px;
+	background-color:pink;
+}
+.deal .deal-fc .boxb
+{
+	margin-top:-38%;
+	margin-left:40%;
+	height:402px;
+	width:30%;
+	background-color:red;
+}
+.deal .deal-fc .smallb
+{
+	margin-top:60%;
+	margin-left:20%;
+	width:60%;
+	height:110px;
+	background-color:pink;
+}
+.deal .deal-fc .boxc
+{
+	margin-right:10%;
+	margin-top:-37%;
+	margin-left:80%;
+	height:400px;
+	width:30%;
+	background-color:red;
+}
+.deal .deal-fc .smallc
+{
+	margin-top:60%;
+	margin-left:20%;
+	width:60%;
+	height:110px;
+	background-color:pink;
+}
+.about
+{
+	text-align:center;
+	height:500px;
+	width:100%;
+	background-color:plum;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.about.about-fc .image
+{
+	height:500px;
+	width:50%;
+	background-color:#009688;
+}
+.about .about-fc .content
+{
+	margin-left:500px;
+	height:500px;
+	width:80%;
+	background-color:#009688;
+}
+.about .about-fc .user
+{
+	margin-top:50px;
+	margin-left:30px;
+	height:130px;
+	width:50%;
+	background-color:orange;
+}
+.about .about-fc .hackers
+{
+	margin-top:50px;
+	margin-left:30px;
+	height:130px;
+	width:50%;
+	background-color:orange;
+}
+.services
+{
+	height:230px;
+	width:100%;
+	background-color:green;
+}
+.offers
+{
+	text-align:center;
+	height:570px;
+	width:100%;
+	background-color:plum;
+}
+.offers .offers-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space between;
+	
+}
+.offers .offers-fc .free
+{
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.offers .offers-fc .premium
+{
+	margin-left:20px;
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.offers .offers-fc .giabit
+{
+	margin-left:20px;
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.offers .offers-fc .instant
+{
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.offers .offers-fc .traffic
+{
+	margin-left:20px;
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.offers .offers-fc .price
+{
+	margin-left:20px;
+	margin-top:20px;
+	height:250px;
+	width:30%;
+	background-color:orange;
+}
+.ad
+{
+	height:600px;
+	width:100%;
+	background-color:yellow;
+}
+.ad .ad-fc 
+{
+	display:flex;
+    justify-content:space-between;
+}
+.ad  .ad-fc .server
+{
+	margin-top:30px;
+	height:530px;
+	width:30%;
+	background-color:green;
+}
+.ad  .ad-fc .apps
+{
+	margin-top:30px;
+	height:530px;
+	width:50%;
+	background-color:orange;
+}
+.countries 
+{
+	height:501px;
+	width:100%;
+	background-color:#009688;
+}
+.countries .contries-fc
+{
+	display:flex;
+}
+.countries .contries-fc .infoa
+{
+	height:500px;
+	width:50%;
+	background-color:green;
+}
+.countries .contries-fc .smalla
+	{
+		height:43px;
+		width:50%;
+		background-color:red;
+		margin-top:380px;
+		margin-left:150px;
+	}
+
+.countries .contries-fc .infob
+{
+	height:500px;
+	width:50%;
+	background-color:pink;
+}
+.feedback
+{
+	height:231px;
+	width:100%;
+	background-color:#2196f3;
+}
+.founders 
+{
+	height:475px;
+	width:100%;
+	background-color:yellow;
+}
+.founders .founders-fc
+{
+	display:flex;
+	justify-content:space-around;
+}
+.founders .founders-fc .boxa
+{
+	height:475px;
+	width:50%;
+	background-color:green;
+}
+.founders .founders-fc .boxb
+{
+	height:475px;
+	width:50%;
+	background-color:plum;
+}
+.news 
+{
+	height:226px;
+	width:100%;
+	background-color:#e91e63;
+}
+.information 
+{
+	height:480px;
+	width:100%;
+	background-color:#03a9f4;
+}
+.information .information-fc
+{
+	display:flex;
+	 justify-content:space-between;
+}
+.information .information-fc .soln
+{
+	height:480px;
+	width:30%;
+	background-color:green;
+}
+.information .information-fc .presence
+{
+	height:480px;
+	width:30%;
+	background-color:green;
+}
+.information .information-fc .newsletter
+{
+	height:480px;
+	width:30%;
+	background-color:green;
+}
+.information .information-fc .email
+{
+	height:52px;
+	width:50%;
+	background-color:yellow;
+	margin-top:230px;
+	margin-left:60px;
+}
+.information .information-fc .subscribe
+{
+	margin-left:60px;
+	margin-top:120px;
+	height:52px;
+	width:50%;
+	background-color:yellow;
+}
+.contact
+{
+	height:404px;
+	width:100%;
+	background-color:#03a9f4;
+}
+.contact .contact-fc 
+{
+	display:flex;
+	justify-content:space-between;
+}
+.contact .contact-fc .boxa
+{
+	margin-top:30px;
+	height:336px;
+	width:20%;
+	background-color:pink;
+}
+.contact .contact-fc .boxb
+{
+	margin-top:30px;
+	height:336px;
+	width:20%;
+	background-color:pink;
+}
+.contact .contact-fc .boxc
+{
+	margin-top:30px;
+	height:336px;
+	width:20%;
+	background-color:pink;
+}
+.contact .contact-fc .boxd
+{
+	margin-top:30px;
+	height:336px;
+	width:20%;
+	background-color:pink;
+}
+.copyright
+{
+	height:90px;
+	width:100;
+	background-color:green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
